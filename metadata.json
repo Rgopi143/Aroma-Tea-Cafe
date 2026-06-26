@@ -1,0 +1,6 @@
+{
+  "name": "Py's Aromaa Cafe",
+  "description": "An interactive, high-readability digital menu, cart builder, and business insights dashboard for Py's Aromaa Cafe, designed in a premium vintage rustic theme.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
